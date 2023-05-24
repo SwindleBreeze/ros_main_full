@@ -1,0 +1,5 @@
+bool request
+---
+bool wonted
+int32 prize
+string color

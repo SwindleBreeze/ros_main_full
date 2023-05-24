@@ -1,0 +1,2 @@
+exercise1:exercise2:exercise3:exercise4:exercise5/turtlebot_custom_navigation:exercise6:exercise7/exercise7:exercise7/pincher_arm/turtlebot_arm:exercise7/pincher_arm/turtlebot_arm_control:exercise7/pincher_arm/turtlebot_arm_description:exercise7/pincher_arm/turtlebot_arm_gazebo:exercise8:task2:tasks
+-DCATKIN_DEVEL_PREFIX=/home/edin/Desktop/ROS/devel -DCMAKE_INSTALL_PREFIX=/home/edin/Desktop/ROS/install -G Unix Makefiles

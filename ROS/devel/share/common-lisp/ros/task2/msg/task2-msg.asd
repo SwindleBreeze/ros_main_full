@@ -1,0 +1,11 @@
+
+(cl:in-package :asdf)
+
+(defsystem "task2-msg"
+  :depends-on (:roslisp-msg-protocol :roslisp-utils )
+  :components ((:file "_package")
+    (:file "Cylinder" :depends-on ("_package_Cylinder"))
+    (:file "_package_Cylinder" :depends-on ("_package"))
+    (:file "Ring" :depends-on ("_package_Ring"))
+    (:file "_package_Ring" :depends-on ("_package"))
+  ))

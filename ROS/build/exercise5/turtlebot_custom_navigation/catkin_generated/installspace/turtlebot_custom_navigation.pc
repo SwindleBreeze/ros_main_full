@@ -1,0 +1,8 @@
+prefix=/home/edin/Desktop/ROS/install
+
+Name: turtlebot_custom_navigation
+Description: Description of turtlebot_custom_navigation
+Version: 2.3.7
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: tf roscpp sensor_msgs
