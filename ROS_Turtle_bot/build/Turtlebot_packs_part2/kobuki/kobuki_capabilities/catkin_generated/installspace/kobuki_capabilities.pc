@@ -1,0 +1,8 @@
+prefix=/home/edin/Desktop/ROS_Turtle_bot/install
+
+Name: kobuki_capabilities
+Description: Description of kobuki_capabilities
+Version: 0.7.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

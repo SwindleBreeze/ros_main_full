@@ -1,0 +1,8 @@
+prefix=/home/edin/Desktop/ROS_Turtle_bot/install
+
+Name: yocs_controllers
+Description: Description of yocs_controllers
+Version: 0.12.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp
